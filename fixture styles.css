@@ -1,0 +1,20 @@
+.fixture-card {
+    border: 1px solid #e60000;
+    border-radius: 8px;
+    background: #fff5f5;
+    margin: 20px auto;
+    padding: 15px 20px;
+    max-width: 600px;
+    text-align: left;
+  }
+  
+  .fixture-card p {
+    margin: 8px 0;
+    font-size: 16px;
+  }
+  
+  .upcoming {
+    background: #f4fff4;
+    border-color: #00b300;
+  }
+  

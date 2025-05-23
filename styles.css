@@ -1,0 +1,70 @@
+/* Global Styles */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: rgb(255, 2, 2);
+    color: #222;
+  }
+  
+  /* Header */
+  .hero {
+    background: #faf9f9;
+    color: rgb(255, 1, 1);
+    text-align: center;
+    padding: 40px 20px;
+  }
+  
+  .logo {
+    width: 100px;
+    margin-bottom: 10px;
+  }
+  
+  .motto {
+    font-style: italic;
+    margin-top: 5px;
+  }
+  
+  /* Navigation Bar */
+  .navbar {
+    background: white;
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px solid #e60000;
+    padding: 10px 0;
+  }
+  
+  .navbar a {
+    color: #e60000;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+  }
+  
+  .navbar a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Main Content */
+  .content {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .news-card {
+    border: 1px solid #e60000;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    background-color: #fff5f5;
+  }
+  
+  /* Footer */
+  .footer {
+    background: #e60000;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+  }
+  
